@@ -243,25 +243,16 @@
     {
       "name": "Me",
       "id": "154.215.14.93",
-      "keys": "MRB:GS5112T",
-      "version": "1.1.7"
+      "keys": "MRB:GS5112T"
     },
     {
       "name": "Me",
       "id": "103.141.68.90",
-      "keys": "MRB:GS5112T",
-      "version": "1.1.7"
+      "keys": "MRB:GS5112T"
     },
     {
       "name": "Me",
       "id": "154.215.14.93",
-      "keys": "MRB:GS5112T",
-      "version": "1.1.7"
-    },
-    {
-      "name": "MY-SS",
-      "version": "1.1.7",
-      "id": "191.96.93.34",
       "keys": "MRB:GS5112T"
     }
   ]
